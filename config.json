@@ -1,6 +1,8 @@
 {
   "host": "localhost",
-  "user": "user",
-  "password": "password",
-  "database": "mydb"
+  "user": "root",
+  "password": "",
+  "database": "mydb",
+  "split_char": ",",
+  "insert_number": 30000
 }
